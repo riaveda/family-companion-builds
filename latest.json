@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "2.4",
-  "url": "https://github.com/riaveda/family-companion-builds/releases/download/v2.4/butler-v2.4.apk",
-  "sha256": "2c79a1d0513ad13183f6a1d8db1b47092ec367a73e35bb064682d2429b034717",
-  "notes": "집사 v1 로 연결",
+  "versionCode": 7,
+  "versionName": "2.5",
+  "url": "https://github.com/riaveda/family-companion-builds/releases/download/v2.5/butler-v2.5.apk",
+  "sha256": "e1673f779ce03e274802948c7ddd9a75c3d38a10c9cb1fadbb562084bdb9619e",
+  "notes": "진행 표시 반짝임·반응 시간 계측",
   "minRequired": 0
 }
