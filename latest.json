@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "2.6",
-  "url": "https://github.com/riaveda/family-companion-builds/releases/download/v2.6/butler-v2.6.apk",
-  "sha256": "4ba450788136b6e4e51e80fb779f41e1d83a99d549db7c5c847c44e6d8dc4f91",
-  "notes": "대화 비우기",
+  "versionCode": 9,
+  "versionName": "2.7",
+  "url": "https://github.com/riaveda/family-companion-builds/releases/download/v2.7/butler-v2.7.apk",
+  "sha256": "40067cdfa0424675ba8180196297bd1225e4ff7c4c28c1a61fdf1fdf7db87c78",
+  "notes": "인계받은 일 실시간 표시",
   "minRequired": 0
 }
