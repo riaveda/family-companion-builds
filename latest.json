@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "2.10",
-  "url": "https://github.com/riaveda/family-companion-builds/releases/download/v2.10/butler-v2.10.apk",
-  "sha256": "6fd3b1eadb59efa1d18cf82ab8b4f4db12dce5ed1289f83c6744cfb00e045b48",
-  "notes": "말풍선마다 받은 시각, 날짜가 바뀌면 날짜 구분선",
+  "versionCode": 13,
+  "versionName": "2.11",
+  "url": "https://github.com/riaveda/family-companion-builds/releases/download/v2.11/butler-v2.11.apk",
+  "sha256": "64e41707b114e7470bb85dc43433ea19317282169e1525b98073a2c248edfddb",
+  "notes": "메뉴에 '내 자동화' — 대화로 만든 자동화를 보고 끄기",
   "minRequired": 0
 }
