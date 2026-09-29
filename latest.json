@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "2.9",
-  "url": "https://github.com/riaveda/family-companion-builds/releases/download/v2.9/butler-v2.9.apk",
-  "sha256": "4c65fd7e2b6d8b173036d49067cd4057115f785aba2bd7ab2f07135422a397ac",
-  "notes": "시트 전체 열기·빈 방 안내",
+  "versionCode": 12,
+  "versionName": "2.10",
+  "url": "https://github.com/riaveda/family-companion-builds/releases/download/v2.10/butler-v2.10.apk",
+  "sha256": "6fd3b1eadb59efa1d18cf82ab8b4f4db12dce5ed1289f83c6744cfb00e045b48",
+  "notes": "말풍선마다 받은 시각, 날짜가 바뀌면 날짜 구분선",
   "minRequired": 0
 }
