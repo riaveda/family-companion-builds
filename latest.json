@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "2.12",
-  "url": "https://github.com/riaveda/family-companion-builds/releases/download/v2.12/butler-v2.12.apk",
-  "sha256": "b725a965765f9f6525805748b1c038963d174eb865ace9e0f2c3da8422f5383f",
-  "notes": "내 자동화에 답·확인을 기다리는 일도 함께 보임",
+  "versionCode": 15,
+  "versionName": "2.13",
+  "url": "https://github.com/riaveda/family-companion-builds/releases/download/v2.13/butler-v2.13.apk",
+  "sha256": "70444d5b8d140cdfe39cbb0ecc82c14d607e0f266a2507c0431194a03a0119b5",
+  "notes": "푸시를 앱 푸시 서버로 옮김(플랫폼은 폰 푸시를 모른다)",
   "minRequired": 0
 }
